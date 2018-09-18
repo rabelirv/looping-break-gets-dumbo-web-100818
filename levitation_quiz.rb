@@ -1,6 +1,5 @@
 
-def levitation_quiz
-	#your code here
+def levitation
 end
 
 

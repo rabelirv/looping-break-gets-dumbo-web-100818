@@ -1,7 +1,11 @@
 
 def levitation
   loop do
-end
+  puts "What is the spell that enacts levitation
+  ?"
+  answer = gets.chomp
+  
+  end
 end
 
 
